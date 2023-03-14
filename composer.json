@@ -1,0 +1,7 @@
+{
+  "name": "sail-agency/blazing-woocommerce-shipment-tracking",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "https://github.com/sail-agency/blazing-woocommerce-shipment-tracking",
+  "type": "wordpress-plugin",
+  "description": "Blazing Woocommerce Shipment Tracking"
+}
